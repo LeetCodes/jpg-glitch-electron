@@ -70,8 +70,8 @@
 		"node-base64-image": "^1.0.4",
 		"vue": "^2.3.3",
 		"vue-electron": "^1.0.6",
-		"vue-router": "^2.5.3",
-		"vuex": "^2.3.1"
+		"vue-router": "^3.0.1",
+		"vuex": "^3.0.1"
 	},
 	"devDependencies": {
 		"babel-core": "^6.25.0",
@@ -94,14 +94,14 @@
 		"electron-debug": "^1.4.0",
 		"electron-devtools-installer": "^2.2.0",
 		"extract-text-webpack-plugin": "^3.0.0",
-		"file-loader": "^0.11.2",
+		"file-loader": "^1.1.6",
 		"glitch-canvas": "^1.1.4",
 		"html-webpack-plugin": "^2.30.1",
 		"multispinner": "^0.2.1",
 		"node-loader": "^0.6.0",
 		"save-file": "^1.2.0",
-		"style-loader": "^0.18.2",
-		"url-loader": "^0.5.9",
+		"style-loader": "^0.19.1",
+		"url-loader": "^0.6.2",
 		"vue-html-loader": "^1.2.4",
 		"vue-loader": "^13.0.5",
 		"vue-style-loader": "^3.0.1",
